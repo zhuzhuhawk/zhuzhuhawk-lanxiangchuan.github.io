@@ -1355,6 +1355,6 @@ pre .javascript .function {
   background: rgba(0,0,0,0.071);
   padding: 2px 15px;
   float: left;
-  border-radius: 0px 0px 30px 30px;
+  border-radius: 0px 0px 30px 0px;
 /* margin-left: -15px; */
 }
